@@ -1,4 +1,4 @@
-# MNIST Digit Classification using Fully Connected Neural Network
+# MNIST Digit Classification
 
 ## Overview
 This project is a beginner-friendly implementation of a **handwritten digit classifier** using the MNIST dataset. The model is a **fully connected neural network** built with Keras and trained to classify digits from 0 to 9. 
