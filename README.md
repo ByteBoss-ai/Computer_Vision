@@ -19,11 +19,6 @@ The focus of this project is on:
 - **Image Size:** 28×28 pixels, grayscale  
 - **Number of Classes:** 10 (digits 0–9)  
 
-The dataset can be loaded directly via Keras:
-```python
-from keras.datasets import mnist
-(x_train, y_train), (x_test, y_test) = mnist.load_data()
-
 ---
 
 ## Workflow
